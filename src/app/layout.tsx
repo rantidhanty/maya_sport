@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Maya Sport",
-  description: "Website digital marketing untuk Maya Sport.",
+  description: "Pabrik dan penjual langsung peralatan olahraga standar kompetisi.",
 };
 
 export default function RootLayout({
